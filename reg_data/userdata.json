@@ -1,0 +1,30 @@
+{
+  "data" : [
+    {
+      "firstname": "chandan",
+      "lastname" : "sm",
+      "street": "mandon",
+      "city": "shimoga",
+      "user_name": "cndns256h",
+      "password": 123,
+      "re_enter": 123,
+      "state": "karnataka",
+      "zip": 577201,
+      "ph_no": 874569851,
+      "ssn": 20
+    },
+     {
+      "firstname": "handan",
+      "lastname" : "csm",
+      "street": "moon",
+      "city": "goa",
+      "user_name": "hndn6",
+      "password": 12323,
+      "re_enter": 12323,
+      "state": "karnataka",
+      "zip": 577244,
+      "ph_no": "chandan",
+      "ssn": 10
+    }
+  ]
+}
