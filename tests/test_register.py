@@ -24,4 +24,5 @@ def test_login(browser_selection, test_list_item):
     driver = browser_selection
     login_action = LoginPage(driver)
     login_action.login(test_list_item["user_name"],test_list_item["password"])
+    print("hi")
 
